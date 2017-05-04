@@ -1,3 +1,3 @@
 <?php 
-echo 'hello dev branch!';
+echo 'hello branch!';
 ?>
