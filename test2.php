@@ -5,3 +5,8 @@
 
 die('d');
 ?>
+
+
+<?php 
+echo 'another change'; die;
+?>
